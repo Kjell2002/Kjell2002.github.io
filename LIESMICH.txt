@@ -1,0 +1,11 @@
+Lauschraum – Hörbuch-Web-App
+
+Diese 6 Dateien gehören zusammen und müssen auf einen Webspace mit HTTPS
+(z. B. Netlify oder GitHub Pages). Danach die Adresse in Safari öffnen,
+Teilen-Symbol > "Zum Home-Bildschirm". Die Hörbücher selbst werden nicht
+hochgeladen, sie bleiben nur auf deinem Gerät gespeichert.
+
+index.html            die App
+manifest.webmanifest  Name, Farben und Icon für den Home-Bildschirm
+sw.js                 macht die App offline nutzbar
+icon-*.png            App-Icons
